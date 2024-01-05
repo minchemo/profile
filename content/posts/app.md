@@ -4,7 +4,7 @@ date: 2024-01-02T11:44:29+08:00
 draft: false
 ---
 
- ### Nooker. 動物森友會圖鑑攻略
+ ### Nooker. 動物森友會圖鑑攻略（已下架）
 
   2020 動物森友會全球熱潮，開發一款攻略圖鑑「Nooker.」，IOS 3個月突破10萬下載，  
   曾登香港工具應用總榜第一名、台灣免費應用總榜第10名、多個線上媒體自主報導，奇摩新聞、妞新聞、香港01、popbee。  
@@ -14,7 +14,7 @@ draft: false
   - [IOS](https://apps.apple.com/tw/app/nooker/id1510011675)
   ___
 
-  ### 換換 Pokemon GO 交換平台
+  ### 換換 Pokemon GO 交換平台（已下架）
   App Store / Play 商店 4.4 星好評，全台灣最大的寶可夢交換平台。 手遊 Pokemon Go 內的交換功能可以讓訓練家互相交換擁有的寶可夢，為了能讓不同縣市的玩家可以交換， 而不再僅限於社區內的玩家或朋友間，只要使用換換就可以看到附近可以交換的陌生玩家，而且可以馬上聯繫對方並看到對方願意提供的籌碼。
          
   - [Android](https://play.google.com/store/apps/details?id=com.tradepm.prototypes.app) 
