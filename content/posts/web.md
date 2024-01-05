@@ -1,11 +1,17 @@
 ---
 title: "Web 案例"
-date: 2022-06-09T11:28:10+08:00
+date: 2024-01-01T11:28:10+08:00
 draft: false
 ---
 
-### 2022 持續新增
+### 2024 持續新增
 ___
+#### 快樂王國 https://wl2.debang.tw/
+#### 高大之森 https://sigma.debang.tw/
+#### 長耀加 https://changyao-jia.com.tw/
+#### 雙橡園 https://gtcip.debang.tw/
+#### 宗大 https://zongda-yama.tw/
+#### 以下分站點已失效
 #### 二戰後臺灣建築師故事地圖 (國立台灣博物館 x 成功大學) https://tasmaww2.herokuapp.com/
 #### 2021 花蓮城市空間藝術節 https://www.hccc.gov.tw/hualien.festival/#/
 #### 西門大院 (預約官網) https://sm.h35.tw/
