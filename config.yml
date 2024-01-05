@@ -41,7 +41,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "來自臺灣南投，國姓鄉"
-    Content: APP / Web 全端開發，偏好 Flutter、vue(vite/nuxt)、Laravel、Mysql、Nginx、Ubuntu 排列組合
+    Content: APP / Web 全端開發，偏好 Web3、Flutter、vue(vite/nuxt)、Laravel、Mysql、Nginx、Linux
 
   socialIcons:
     - name: facebook
