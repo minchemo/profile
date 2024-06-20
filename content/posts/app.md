@@ -25,6 +25,8 @@ draft: false
          
   - [Android](https://play.google.com/store/apps/details?id=com.tradepm.prototypes.app) 
   - [IOS](https://apps.apple.com/us/app/%E6%8F%9B-h-uan/id1478254005?app=itunes&ign-mpt=uo%3D4)
+  - ![huan](https://i.imgur.com/itPqDjL.jpeg)
+  - ![huan](https://tomchun.tw/tomchun/wp-content/uploads/2019/09/7878678.jpg)
   ___
 
   ### 公園前寶可夢雷達（已下架）
