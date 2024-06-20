@@ -12,6 +12,10 @@ draft: false
   
   - [Android](https://play.google.com/store/apps/details?id=com.nooker2.ac)
   - [IOS](https://apps.apple.com/tw/app/nooker/id1510011675)
+  - [Yahoo 新聞報導](https://tw.news.yahoo.com/%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83-%E5%8B%95%E6%A3%AE%E5%B0%8F%E5%8A%A9%E6%89%8Bapp-nooker%E6%9C%80%E6%96%B9%E4%BE%BF%E7%9A%84%E6%89%8B%E6%A9%9F%E8%BC%94%E5%8A%A9%E7%A8%8B%E5%BC%8F-%E6%9D%91%E6%B0%91-%E5%AE%B6%E5%85%B7-073118577.html)
+  - [妞新聞報導](https://popbee.com/lifestyle/animal-crossing-app-nooker)
+  - [POPBEE報導](https://www.niusnews.com/=P17b9yx7)
+
   ___
 
   ### 換換 Pokemon GO 交換平台（已下架）
