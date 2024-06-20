@@ -50,6 +50,8 @@ params:
       url: "https://www.instagram.com/jmojmojmoj/"
     - name: email
       url: "mailto:lalab996@hotmail.com.tw"
+    - name: github
+      url: "https://github.com/minchemo"
 
 menu:
   main:
