@@ -40,8 +40,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "來自臺灣南投，國姓鄉"
-    Content: APP / Web 全端開發，偏好 Web3、Flutter、vue(vite/nuxt)、Laravel、Mysql、Nginx、Linux
+    Title: ""
+    Content: FullStack Web_dev / Flutter App_dev
 
   socialIcons:
     - name: facebook
