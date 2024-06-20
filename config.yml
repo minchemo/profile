@@ -41,7 +41,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: ""
-    Content: FullStack Web_dev / Flutter App_dev
+    Content: FullStack Web_dev / Flutter App_dev / Web3, solidity
 
   socialIcons:
     - name: facebook
